@@ -1,0 +1,9 @@
+# add git ignore...
+ 
+sub/*.aux
+*.aux
+*.pdf
+*.log
+*.lof
+*.toc
+*.bbl
